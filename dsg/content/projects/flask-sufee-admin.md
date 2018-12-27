@@ -3,10 +3,11 @@ title: "Flask Sufee Admin"
 description: "A template for Flask using Sufee Admin Bootstrap template."
 date: 2018-12-26T17:57:50-05:00
 draft: false
-featured_image: "../images/sufee-admin.png" 
+featured_image: "../images/sufee-admin.png"
+
 ---
 
-{{< figure src="/images/sufee-admin.png" alt="Camunda BPM Engine" >}}
+{{< figure src="/images/sufee-admin.png" width="600" alt="Sufee Admin Screenshot" >}}
 ### Sufee HTML5 Admin Dashboard Template (for Flask!)
 **Sufee** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://colorlib.com/polygon/sufee/index.html
 

@@ -6,7 +6,7 @@ category: ["Development"]
 tags: ["JAVA","Python","BPMN","Camunda","GO"]
 draft: false
 featured_image: "../images/Kilkee1.jpg"
-type: "blog"
+
 ---
 
 Some interesting stuff I've been reading about or looking into.

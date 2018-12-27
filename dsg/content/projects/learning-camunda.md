@@ -4,8 +4,9 @@ date: 2018-12-26T17:57:50-05:00
 description: "Exploring Camunda workflow engine."
 draft: false
 featured_image: "../images/camunda-icon.svg"
+
 ---
-{{< figure src="/images/camunda-logo.svg" alt="Camunda BPM Engine" >}}
+{{< figure src="/images/camunda-logo.svg" width="600" alt="Camunda BPM Engine" >}}
 # Camunda-BPM-Learning
 Project to store what I learn about [Camunda](https://camunda.com) and use for future base projects.
 Camunda BPM Documents (https://docs.camunda.org) - currently built on v7.9

@@ -4,8 +4,9 @@ date: 2018-12-26T17:57:50-05:00
 draft: false
 description: "A template for Flask using Sufee Admin Bootstrap template."
 featured_image: "../images/pynote-0-1-2.png"
+
 ---
-{{< figure src="/images/pynote-0-1-2.png" alt="Pynote" >}}
+{{< figure src="/images/pynote-0-1-2.png" width="600" alt="Pynote" >}}
 Journal, Idea Tracker and Other things. This application is based and built off [Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) by [dpgaspar](https://github.com/dpgaspar)
 
 Running demo hosted at [pynote.devsetgo.com](https://pynote.devsetgo.com)

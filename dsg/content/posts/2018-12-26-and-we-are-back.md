@@ -7,7 +7,7 @@ category: ["development","other"]
 tags: ["Python","Random", "GO"]
 draft: false
 featured_image: "../images/Kilkee1.jpg"
-type: "blog"
+
 ---
 {{< figure src="/image/broken-site.jpg" alt="I broke the internet." >}}
 So I broke my last site (or two). I had been using Wordpress and decided I wanted something light weight. So I started playing with [Ghost](https://ghost.org/) and eventually had it running on my [Docker](https://www.docker.com/) instance. Initially I had it setup to learn and test, while also using it as my blog. Then I ran into a lot of issues... way more than you should run into when learning/building a blog.
