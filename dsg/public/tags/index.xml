@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on DevSetGo</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on DevSetGo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Dec 2018 23:16:49 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Bpmn</title>
+      <link>/tags/bpmn/</link>
+      <pubDate>Wed, 26 Dec 2018 23:16:49 -0500</pubDate>
+      
+      <guid>/tags/bpmn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camunda</title>
+      <link>/tags/camunda/</link>
+      <pubDate>Wed, 26 Dec 2018 23:16:49 -0500</pubDate>
+      
+      <guid>/tags/camunda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flask</title>
+      <link>/tags/flask/</link>
+      <pubDate>Wed, 26 Dec 2018 18:29:45 -0500</pubDate>
+      
+      <guid>/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Flask Appbuilder</title>
+      <link>/tags/flask-appbuilder/</link>
+      <pubDate>Wed, 26 Dec 2018 18:29:45 -0500</pubDate>
+      
+      <guid>/tags/flask-appbuilder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>/tags/go/</link>
+      <pubDate>Wed, 26 Dec 2018 23:16:49 -0500</pubDate>
+      
+      <guid>/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>/tags/java/</link>
+      <pubDate>Wed, 26 Dec 2018 23:16:49 -0500</pubDate>
+      
+      <guid>/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/tags/python/</link>
+      <pubDate>Wed, 26 Dec 2018 23:16:49 -0500</pubDate>
+      
+      <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random</title>
+      <link>/tags/random/</link>
+      <pubDate>Wed, 26 Dec 2018 22:39:11 -0500</pubDate>
+      
+      <guid>/tags/random/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

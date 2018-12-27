@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Flask Appbuilder on DevSetGo</title>
+    <link>/tags/flask-appbuilder/</link>
+    <description>Recent content in Flask Appbuilder on DevSetGo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Dec 2018 18:29:45 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/flask-appbuilder/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pynote</title>
+      <link>/projects/2018-12-26-pynote/</link>
+      <pubDate>Wed, 26 Dec 2018 18:29:45 -0500</pubDate>
+      
+      <guid>/projects/2018-12-26-pynote/</guid>
+      <description>Journal, Idea Tracker and Other things. This application is based and built off Flask-AppBuilder by dpgaspar
+Running demo hosted at pynote.devsetgo.com * username Admin * password $Password
+Run the application from OS Prerequisits * Python (3.5) * virtualenv
+Run the application * create a virtual environment - virtualenv env * Install Requirements in Virtual Environment - pip install -r requirements.txt * fabmanger create-admin - Follow instructions * fabmanger Run - Application is now running - Test and modify code as you want</description>
+    </item>
+    
+  </channel>
+</rss>

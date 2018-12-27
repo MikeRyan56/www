@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on DevSetGo</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on DevSetGo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Dec 2018 17:57:50 -0500</lastBuildDate>
+    
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flask Sufee Admin</title>
+      <link>/projects/2018-12-26-flask-sufee-admin/</link>
+      <pubDate>Wed, 26 Dec 2018 18:30:10 -0500</pubDate>
+      
+      <guid>/projects/2018-12-26-flask-sufee-admin/</guid>
+      <description>Sufee HTML5 Admin Dashboard Template (for Flask!) Sufee is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://colorlib.com/polygon/sufee/index.html
+ project forked to setup to use in a Flask project.  Demo Site: Here TOC  Built With Changelog Authors License  Built With  Flask Sass Bootstrap Chart.</description>
+    </item>
+    
+    <item>
+      <title>Learning Camunda</title>
+      <link>/projects/2018-12-26-learning-camunda/</link>
+      <pubDate>Wed, 26 Dec 2018 18:29:56 -0500</pubDate>
+      
+      <guid>/projects/2018-12-26-learning-camunda/</guid>
+      <description>Camunda-BPM-Learning Project to store what I learn about Camunda and use for future base projects. Camunda BPM Documents (https://docs.camunda.org) - currently built on v7.9
+ChangeLog
+Find all Camunda related posts.
+Things in the example As of 0.1.4  Accounts Receivable process with BPMN and DMN file for cost center routing Get current user when submitting form or approving Use of singleResult for getting 3 outputs from DMN (primary approver, limit, &amp;amp; secondary approver) Each step of the process has an embedded HTML form following basic bootstrap design Cam-Script to fetch varialbles and display on screen (embedded HTML forms)  As of 0.</description>
+    </item>
+    
+    <item>
+      <title>Pynote</title>
+      <link>/projects/2018-12-26-pynote/</link>
+      <pubDate>Wed, 26 Dec 2018 18:29:45 -0500</pubDate>
+      
+      <guid>/projects/2018-12-26-pynote/</guid>
+      <description>Journal, Idea Tracker and Other things. This application is based and built off Flask-AppBuilder by dpgaspar
+Running demo hosted at pynote.devsetgo.com * username Admin * password $Password
+Run the application from OS Prerequisits * Python (3.5) * virtualenv
+Run the application * create a virtual environment - virtualenv env * Install Requirements in Virtual Environment - pip install -r requirements.txt * fabmanger create-admin - Follow instructions * fabmanger Run - Application is now running - Test and modify code as you want</description>
+    </item>
+    
+  </channel>
+</rss>

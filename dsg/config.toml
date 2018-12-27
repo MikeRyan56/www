@@ -1,0 +1,39 @@
+baseURL = ""
+languageCode = "en-us"
+title = "DevSetGo"
+theme = "ananke"
+staticDir = ["static"]
+category = ["python","javascript","development","other"]
+tags = ["java","python","javascript","business","life","random"]
+
+# theme = "gohugo-theme-ananke"
+# themesDir = "../.."
+
+MetaDataFormat = "yaml"
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"
+Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
+googleAnalytics = "UA-8678821-5"
+enableRobotsTXT = true
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  body_classes = "avenir bg-near-white"
+  favicon = ""
+  description = "My spot on the internet... Code and stuff"
+  facebook = ""
+  twitter = "https://twitter.com/stuxstu"
+  instagram = ""
+  youtube = ""
+  github = "https://github.com/MikeRyan56"
+  gitlab = ""
+  linkedin = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-blue"
+  featured_image = "/image/Kilkee1.jpg"
+  recent_posts_number = 2
+  googleMapsAPIKey = "AIzaSyCFqIVd4buhBFKFilrHkBqfnDARvmv7jAI"
