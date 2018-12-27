@@ -3,7 +3,7 @@ title: "Things I like...."
 description: "Things that I like and use."
 date: 2018-12-26T17:57:50-05:00
 draft: false
-featured_image: "../image/Kilkee1.jpg"
+featured_image: "../images/Kilkee1.jpg"
 ---
 
 ### I like...

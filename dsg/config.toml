@@ -1,10 +1,10 @@
-baseURL = ""
+baseURL = "/"
 languageCode = "en-us"
 title = "DevSetGo"
 theme = "ananke"
 staticDir = ["static"]
-category = ["python","javascript","development","other"]
-tags = ["java","python","javascript","business","life","random"]
+# category = ["python","javascript","development","other"]
+# tags = ["java","python","javascript","business","life","random"]
 
 # theme = "gohugo-theme-ananke"
 # themesDir = "../.."
