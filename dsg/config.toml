@@ -72,7 +72,7 @@ enableRobotsTXT = true
 # The content will be included in the head of the site as: <meta name="_key_" content="_value_">.
 
 [params.meta]
-    description = "This is only an example value for the meta description"
+    description = "Just my site..."
     keywords = "Python, Code, Development, JavaScript, BPMN, Workflow, Camunda"
     author = "Mike Ryan"
     "DC.Copyright" = "Mike Ryan"
@@ -81,8 +81,8 @@ enableRobotsTXT = true
 # Theme configuration
 
 [params.theme]
-
-    bootstrapTheme = 'solar' # Use empty value for default Bootstrap color scheme or one of the following values:
+    # hoff cosmo
+    bootstrapTheme = 'cyborg' # Use empty value for default Bootstrap color scheme or one of the following values:
     # bolt, bstrap, btcn, calabaza, cerulean, cosmo, cyborg, darkly, flatly, hoff, journal,
     # kdo_flatly, kdo2, kunsch, lumen, lux, malibu, materia, minim, minty, pulse, sandstone, 
     # signa, simplex, sketchy, slate_accessibility_ready, slate, solar, sonic, spacelab, united, yeti
@@ -100,7 +100,7 @@ enableRobotsTXT = true
     linkColor = '' # header link color, leave empty for default
     backgroundColor = '' # header background color, leave empty for default
 
-    image = '../images/Kilkee1.jpg' # Use header image. This option is only valid if the theme is configured to the "header" style. 
+    image = '../images/cliffs.jpg' # Use header image. This option is only valid if the theme is configured to the "header" style. 
     
     width = 2512 # Width of header image. Please set this value to the correct size, because it will be used for size calculation.
     height = 673 # Height of header image. Please set this value to the correct size, because it will be used for size calculation.
