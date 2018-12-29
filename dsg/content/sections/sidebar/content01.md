@@ -1,12 +1,27 @@
 ---
-title: "Likes"
+title: "Quote"
 type: "sidebar"
 ---
-<a href="https://www.python.org/" target="_blank">Python</a> and <a href="http://flask.pocoo.org" target="_blank">Flask</a>!
-<br>
-{{< figure src="/images/flask-python.png" width="150" alt="Python and Flask" >}}
-<br>
-I am a <a href="https://www.airforce.com/" target="_blank">USAF</a> veteran.
-<br>
-{{< figure src="/images/USAF.png" width="150" alt="USAF" >}}
-
+<div class="py-5">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-12">
+            <div class="card" >
+                <div class="card-header"> A Favorite Quote </div>
+                    <div class="card-body">
+                        <p class="" >
+                            <b>Short version or non-religious</b>
+                                <br>
+                                <em>Do the little things as if they were great</em>
+                                <br><a href="https://en.wikipedia.org/wiki/Blaise_Pascal">- Blaise Pascal</a>
+                            </p>
+                        <br>
+                            <p class="" ><em>“Lord, help me to do great things as though they were little, since I do them with Your power; and little things as though they were great, since I do them in Your name.”</em>
+                            <br><a href="https://en.wikipedia.org/wiki/Blaise_Pascal">- Blaise Pascal</a>
+                        </p>
+                    </div>
+                </div>  
+            </div>
+        </div>
+    </div>
+  </div>

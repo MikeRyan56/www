@@ -37,6 +37,8 @@ enableRobotsTXT = true
   # featured_image = "/images/Kilkee1.jpg"
   # bgimg = "/images/Kilkee1.jpg"
   # recent_posts_number = 2
+  
+  #API key is restricted to my domain only
   googleMapsAPIKey = "AIzaSyCFqIVd4buhBFKFilrHkBqfnDARvmv7jAI"
   appendSiteTitle = true # Append site title to title tag on every page. Default false
   #favicon = 'img/favicon.ico' # Add favicon, default empty
