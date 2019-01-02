@@ -2,6 +2,7 @@
 title: "Current Work"
 date: 2018-12-26T23:16:49-05:00
 description: "Interesting things this month."
+author: "Mike 'Stu' Ryan"
 category: ["Development"]
 tags: ["JAVA","Python","BPMN","Camunda","GO"]
 draft: false
