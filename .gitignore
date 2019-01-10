@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+#directories to ignore
+env
+.sonarlint
+.vscode
+public
+
 # C extensions
 *.so
 
