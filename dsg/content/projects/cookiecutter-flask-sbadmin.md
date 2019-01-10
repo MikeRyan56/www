@@ -26,7 +26,7 @@ Built with [cookiecutter](https://github.com/audreyr/cookiecutter)
         <li>$ virtualenv env</li>
         <li>$ env\scritps\activate (Windows) or source env/bin/activate (linux)</li>
         <li>$ pip install cookiecutter</li>
-        <li>$ cookiecutter https://github.com/MikeRyan56/Cookiecutter-Flask-SBAdmin.git</li>
+        <li>$ cookiecutter https://github.com/devsetgo/Cookiecutter-Flask-SBAdmin.git</li>
     <ul>
 </blockquote>
 You will be asked about your basic info (name, project name, app name, etc.). This info will be used in your new project.

@@ -11,7 +11,7 @@ featured_image: "../images/camunda-icon.svg"
 Project to store what I learn about [Camunda](https://camunda.com) and use for future base projects.
 Camunda BPM Documents (https://docs.camunda.org) - currently built on v7.9
 
-[ChangeLog](https://github.com/MikeRyan56/Camunda-BPM-Learning/blob/master/CHANGELOG.md)
+[ChangeLog](https://github.com/devsetgo/Camunda-BPM-Learning/blob/master/CHANGELOG.md)
 
 Find all [Camunda](/tags/camunda) related posts.
 
@@ -35,5 +35,5 @@ Find all [Camunda](/tags/camunda) related posts.
 
 ## How to use
 * Clone and build via Maven
-* Run via .jar or pull via Docker Hub (mikeryan56/learning-camunda)
+* Run via .jar or pull via Docker Hub (devsetgo/learning-camunda)
 * Log in is UserName: admin and Password: rules
