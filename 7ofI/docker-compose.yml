@@ -1,0 +1,15 @@
+version: '2'
+services:
+  web:
+    image: nginx:stable-alpine
+    container_name: "sevenofi"
+    # environment:
+      # - VIRTUAL_HOST=devsetgo.com
+      # - LETSENCRYPT_HOST=devsetgo.com
+      # - LETSENCRYPT_EMAIL=mikeryan56@gmail.com
+    expose:
+      - "80"
+    volumes:
+      - "./public:/usr/share/nginx/html"
+    network_mode: bridge
+    restart: always
