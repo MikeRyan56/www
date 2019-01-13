@@ -1,9 +1,10 @@
 ---
 title: "Learning Camunda"
-date: 2018-12-26T17:57:50-05:00
+date: 2019-01-12T11:00:00-00:00
 description: "Exploring Camunda workflow engine."
 draft: false
 featured_image: "../images/camunda-icon.svg"
+
 
 ---
 {{< figure src="/images/camunda-logo.svg" width="600" alt="Camunda BPM Engine" >}}
@@ -16,6 +17,14 @@ Camunda BPM Documents (https://docs.camunda.org) - currently built on v7.9
 Find all [Camunda](/tags/camunda) related posts.
 
 ## Things in the example
+## [0.1.4.5] - 2019-12-11
+### Added
+- Added Spring Actuator
+- Enabled all endpoints at /actuator-endpoint
+- Pushed new docker container 
+- Updating to Camunda 7.10.0 and SpringBoot Starter 3.2.0 from the [November release](https://blog.camunda.com/post/2018/11/camunda-bpm-7100-released/)
+- Update of BPMN processes to use the new [Tasklist-startable Process Definitions](https://docs.camunda.org/manual/7.10/user-guide/process-engine/process-engine-concepts/#start-process-instances-via-tasklist) to prevent processes that should not be the start to be exposed to the WebApp UI
+
 ### As of 0.1.4
 * Accounts Receivable process with BPMN and DMN file for cost center routing
 * Get current user when submitting form or approving
