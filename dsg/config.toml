@@ -82,7 +82,7 @@ enableRobotsTXT = true
 
 [params.theme]
     # hoff cosmo
-    bootstrapTheme = 'hoff' # Use empty value for default Bootstrap color scheme or one of the following values:
+    bootstrapTheme = 'solar' # Use empty value for default Bootstrap color scheme or one of the following values:
     # bolt, bstrap, btcn, calabaza, cerulean, cosmo, cyborg, darkly, flatly, hoff, journal,
     # kdo_flatly, kdo2, kunsch, lumen, lux, malibu, materia, minim, minty, pulse, sandstone, 
     # signa, simplex, sketchy, slate_accessibility_ready, slate, solar, sonic, spacelab, united, yeti
