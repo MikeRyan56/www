@@ -17,7 +17,7 @@ Just a guy coding... most likely poorly.
 - A geeky guy married to a nerdy girl
 - I'm from Indianapolis, Indiana, but I call Florida home.
 
-{{< google-maps height="300" location="Tampa, Florida, USA" >}}
+
 
 #### Things I like
 
