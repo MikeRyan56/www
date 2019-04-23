@@ -25,3 +25,5 @@ Some interesting metrics on this experiment.
 Overall gain is well worth the use of Async in Python. I was using [AIOHTTP](https://docs.aiohttp.org) as the client call and my Camunda 7.10 instance (single node, H2 DB fetching the [task get](https://docs.camunda.org/manual/7.10/reference/rest/task/get-query/) api then looping through [each id](https://docs.camunda.org/manual/7.10/reference/rest/task/get/) to fetch that information)
 
 If you use my code, please do not hit my server.
+
+##### **Slán**

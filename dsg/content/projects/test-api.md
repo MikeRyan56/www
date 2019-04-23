@@ -1,6 +1,6 @@
 ---
 title: "Test API"
-date: 2019-04-06T12:00:00-00:00
+date: 2019-04-20T12:00:00-00:00
 description: "Creating an API with FastAPI"
 draft: false
 featured_image: "../images/fastapi.png"
@@ -19,21 +19,23 @@ Currently running at [Test-API.DevSetGo.com](https://test-api.devsetgo.com)
 
 Would love to have help to build a great example for others to use.
 
-## How to User
-- see project [README.md](https://github.com/devsetgo/test-api/blob/master/README.md)
-- More and better documentation to com
+## How to Use
+- See project [README.md](https://github.com/devsetgo/test-api/blob/master/README.md)
+- More and better documentation to come
 
-## ToDo
+## TODO
+
+- [x] Refactor by endpoint (ToDo, User, etc..)
 - [ ] Create tests
 - [ ] Extend API parameters
-- [ ] Better organization
+- [x] Better organization
 - [ ] Standardize API pattern for versioning
 - Access Controls
   - [ ] Add Access controls and signup
   - [ ] Add JWT/Token access
   - [ ] Rate limiting
-- [ ] Hypercorn configuration
-- [ ] Logging
+- [ ] Hypercorn configuration from file/Yaml (similar to gunicorn?)
+- [x] Logging (using [Loguru](https://github.com/Delgan/loguru))
 - [ ] Setup CI/CD Pipeline for test and deployment
 - [ ] Make [Twelve Factor App](https://12factor.net/) ready
 - [ ] Build a [cookiecutter](https://github.com/audreyr/cookiecutter) template for future projects similar to the [FastAPI example](https://github.com/tiangolo/full-stack-fastapi-postgresql)
@@ -46,18 +48,38 @@ Would love to have help to build a great example for others to use.
   - [ ] Basic Overview
   - [ ] Explantion of functions
 
+## [Unreleased]
+- websockets (working on it)
 
-## Release Information 
-version if calendar versioning year and build number (YY.MM.MICRO) 
 
-![alt text](https://img.shields.io/badge/calver-YY..MM.MICRO-22bfda.svg "Logo Title Text 1")
---------------
-### 19.4-beta-1
-- First release [19.4-beta-1](https://github.com/devsetgo/test-api/releases/tag/19.4.1-beta)
-- Docker image [Test-API](https://cloud.docker.com/u/mikeryan56/repository/docker/mikeryan56/test-api)
-- APIs
-  - User: Random user information using [Silly](https://github.com/classam/silly)
-  - Item: FastAPI example, nothing changed yet.
-  - Sample: Can get an single request or a list and add a delay in seconds to the response
-  - Using Routers (similar to Flask blueprints)
+## [19.2-beta-1] - 2019-04-20
+### Added
+- routers for todo, users, and silly
+- .env file update
+- Logging via Loguru
 
+### Changed
+- Refactor application
+- Changed list to database (SQLite or Postgres)
+
+### Removed
+- a lot... due to refactoring
+- Removed list for todos
+- Some of the Silly endpoints to limit to just list or one user generation
+
+## [19.1-beta-1] - 2019-04-06
+### Added
+- initial commit
+- building base frame of project
+  - 'User' random data (extension of FastAPI example)
+    - Random user contact information
+  - 'Item' little change from FastAPI example
+  - 'Sample' Generates randomized data
+    - can set a delay in seconds (0 -10) as a parameter 
+    - list can generate from 1 to 1000 
+
+### Changed
+- Nothing, since it is an initial commit
+
+### Removed
+- Nothing, since it is an initial commit

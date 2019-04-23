@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on DevSetGo.com</title>
+    <link>/projects/</link>
+    <description>Recent content in Projects on DevSetGo.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 26 Dec 2018 17:57:50 -0500</lastBuildDate>
+    
+	<atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test API</title>
+      <link>/projects/test-api/</link>
+      <pubDate>Sat, 20 Apr 2019 12:00:00 +0000</pubDate>
+      
+      <guid>/projects/test-api/</guid>
+      <description>Test API This project is to server as an experiment to learn FastApi and server as a useful API to serve psuedo data when needed in other projects.
+Currently running at Test-API.DevSetGo.com - OpenAPI/Swagger UI @ Test-API.DevSetGo.com/docs - ReDoc @ Test-API.DevSetGo.com/ReDoc
+ChangeLog
+Would love to have help to build a great example for others to use.
+How to Use  See project README.md More and better documentation to come  TODO Refactor by endpoint (ToDo, User, etc.</description>
+    </item>
+    
+    <item>
+      <title>Cookiecutter-Flask-SBAdmin</title>
+      <link>/projects/cookiecutter-flask-sbadmin/</link>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 -0001</pubDate>
+      
+      <guid>/projects/cookiecutter-flask-sbadmin/</guid>
+      <description>A Flask template for cookiecutter using SB Admin Bootstrap template. Forked from CookieCutter-Flask at version 0.12.0.
+This is to have a simpler version using SB Admin as I don&amp;rsquo;t want NPM or Bower as part of my apps.
+Tested with modern Python (3.5 and higher).
+Built with cookiecutter
+ToDo  Make docker ready deployments Deploy a running example on Docker Clean up of resources to remove unused/needed functionality  Give it a try!</description>
+    </item>
+    
+    <item>
+      <title>Learning Camunda</title>
+      <link>/projects/learning-camunda/</link>
+      <pubDate>Sat, 12 Jan 2019 11:00:00 +0000</pubDate>
+      
+      <guid>/projects/learning-camunda/</guid>
+      <description>Camunda-BPM-Learning Project to store what I learn about Camunda and use for future base projects. Camunda BPM Documents (https://docs.camunda.org) - currently built on v7.9
+ChangeLog
+Find all Camunda related posts.
+Things in the example [0.1.4.5] - 2019-12-11 Added  Added Spring Actuator Enabled all endpoints at /actuator-endpoint Pushed new docker container Updating to Camunda 7.10.0 and SpringBoot Starter 3.2.0 from the November release Update of BPMN processes to use the new Tasklist-startable Process Definitions to prevent processes that should not be the start to be exposed to the WebApp UI  As of 0.</description>
+    </item>
+    
+    <item>
+      <title>Flask Sufee Admin</title>
+      <link>/projects/flask-sufee-admin/</link>
+      <pubDate>Wed, 26 Dec 2018 17:57:50 -0500</pubDate>
+      
+      <guid>/projects/flask-sufee-admin/</guid>
+      <description>Sufee HTML5 Admin Dashboard Template (for Flask!) Sufee is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://colorlib.com/polygon/sufee/index.html
+ project forked to setup to use in a Flask project.  Demo Site: Here TOC  Built With Changelog Authors License  Built With  Flask Sass Bootstrap Chart.</description>
+    </item>
+    
+    <item>
+      <title>Pynote</title>
+      <link>/projects/pynote/</link>
+      <pubDate>Wed, 26 Dec 2018 17:57:50 -0500</pubDate>
+      
+      <guid>/projects/pynote/</guid>
+      <description>Journal, Idea Tracker and Other things. This application is based and built off Flask-AppBuilder by dpgaspar
+Running demo hosted at pynote.devsetgo.com
+ username Admin password $Password  Run the application from OS Prerequisits * Python (3.5) * virtualenv
+Run the application * create a virtual environment - virtualenv env * Install Requirements in Virtual Environment - pip install -r requirements.txt * fabmanger create-admin - Follow instructions * fabmanger Run - Application is now running - Test and modify code as you want</description>
+    </item>
+    
+  </channel>
+</rss>
