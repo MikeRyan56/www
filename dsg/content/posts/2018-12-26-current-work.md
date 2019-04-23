@@ -2,7 +2,7 @@
 title: "Current Work"
 date: 2018-12-26T23:16:49-05:00
 description: "Interesting things this month."
-author: "Mike 'Stu' Ryan"
+author: "Mike "
 category: ["Development"]
 tags: ["JAVA","Python","BPMN","Camunda","GO"]
 draft: false
@@ -17,3 +17,4 @@ Some interesting stuff I've been reading about or looking into.
 * [Camunda v7.10 Release](https://blog.camunda.com/post/2018/11/camunda-bpm-7100-released/) - Camunda released v7.10 of the engine. It now has "Tasklist-startable Process Definitions". They also just got "€25 million Series A from Highland Europe". So hopefully they will get moving on the [Zeebe](https://zeebe.io/) project faster.
 * [gRPC](https://grpc.io/) - This looks really interesting. I wonder if it could help "speed up" Python websockets. Still learning about it, but seems interesting so far.
 
+##### **Slán**

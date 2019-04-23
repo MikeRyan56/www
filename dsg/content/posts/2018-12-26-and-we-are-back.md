@@ -2,7 +2,7 @@
 title: "And We Are Back..."
 date: 2018-12-26T22:39:11-05:00
 description: "Enter something here"
-author: "Mike 'Stu' Ryan"
+author: "Mike "
 category: ["development","other"]
 tags: ["Python","Random", "GO"]
 draft: false
@@ -23,3 +23,5 @@ What cannot be hacked? A static site running in a docker container. So I decided
 In the end, a static site generator is all I need. It also makes it simple to just keep a copy of the posts and pages. No DB connection or upgrade issues. Just rebuild.
 
 Hugo is built with [GO](https://golang.org/), so maybe I will look into learning more about it. The templating is similar to [Jinja](http://jinja.pocoo.org/), so that looks interesting to learn more about.
+
+##### **Slán**
