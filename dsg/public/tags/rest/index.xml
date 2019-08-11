@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rest on DevSetGo</title>
-    <link>https://example.com/tags/rest/</link>
+    <link>https://devsetgo.com/tags/rest/</link>
     <description>Recent content in rest on DevSetGo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en_US</language>
     <lastBuildDate>Sat, 02 Feb 2019 18:26:39 -0500</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/rest/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://devsetgo.com/tags/rest/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Python Async</title>
-      <link>https://example.com/posts/2019-2-2-python-async/</link>
+      <link>https://devsetgo.com/posts/2019-2-2-python-async/</link>
       <pubDate>Sat, 02 Feb 2019 18:26:39 -0500</pubDate>
       
-      <guid>https://example.com/posts/2019-2-2-python-async/</guid>
+      <guid>https://devsetgo.com/posts/2019-2-2-python-async/</guid>
       <description>I have been trying to learn Python async and await. It is a great concept, but also a different way of programming. The image below is a visual of what asynchronous vs synchronous calls are. The advantage is gained if there is a wait for a response like in a REST call, where you are waiting on the server to respond. The idea is to let the application release the thread, perform some other action, then come back to the call when it returns.</description>
     </item>
     

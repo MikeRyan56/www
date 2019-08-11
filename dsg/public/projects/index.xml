@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on DevSetGo</title>
-    <link>https://example.com/projects/</link>
+    <link>https://devsetgo.com/projects/</link>
     <description>Recent content in Projects on DevSetGo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en_US</language>
     <lastBuildDate>Wed, 26 Dec 2018 17:57:50 -0500</lastBuildDate>
     
-	<atom:link href="https://example.com/projects/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://devsetgo.com/projects/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Starlette SRT Dashboard</title>
-      <link>https://example.com/projects/starlette-srtdash/</link>
+      <link>https://devsetgo.com/projects/starlette-srtdash/</link>
       <pubDate>Sat, 10 Aug 2019 12:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/starlette-srtdash/</guid>
+      <guid>https://devsetgo.com/projects/starlette-srtdash/</guid>
       <description>Starlette Admin with SRT Dashboard This project is to serve as an experiment to learn starlette and a basic template for other projects. It is built with the SRT Dashboard template.
 Currently running at SRTDash.DevSetGo.com   ChangeLog
 Would love to have help to build a great example for others to use.
@@ -25,10 +25,10 @@ How to Use  See project README.md for up-to-date documentatione  Use it  git clo
     
     <item>
       <title>Test API</title>
-      <link>https://example.com/projects/test-api/</link>
+      <link>https://devsetgo.com/projects/test-api/</link>
       <pubDate>Sat, 20 Apr 2019 12:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/test-api/</guid>
+      <guid>https://devsetgo.com/projects/test-api/</guid>
       <description>Test API This project is to serve as an experiment to learn FastApi and serve as a useful API to serve psuedo data when needed in other projects.
 Currently running at Test-API.DevSetGo.com - OpenAPI/Swagger UI @ Test-API.DevSetGo.com/docs - ReDoc @ Test-API.DevSetGo.com/ReDoc
 ChangeLog
@@ -38,10 +38,10 @@ How to Use  See project README.md More and better documentation to come  TODO Re
     
     <item>
       <title>Cookiecutter-Flask-SBAdmin</title>
-      <link>https://example.com/projects/cookiecutter-flask-sbadmin/</link>
+      <link>https://devsetgo.com/projects/cookiecutter-flask-sbadmin/</link>
       <pubDate>Mon, 21 Jan 2019 00:00:00 -0001</pubDate>
       
-      <guid>https://example.com/projects/cookiecutter-flask-sbadmin/</guid>
+      <guid>https://devsetgo.com/projects/cookiecutter-flask-sbadmin/</guid>
       <description>A Flask template for cookiecutter using SB Admin Bootstrap template. Forked from CookieCutter-Flask at version 0.12.0.
 This is to have a simpler version using SB Admin as I don&amp;rsquo;t want NPM or Bower as part of my apps.
 Tested with modern Python (3.5 and higher).
@@ -51,10 +51,10 @@ ToDo  Make docker ready deployments Deploy a running example on Docker Clean up 
     
     <item>
       <title>Learning Camunda</title>
-      <link>https://example.com/projects/learning-camunda/</link>
+      <link>https://devsetgo.com/projects/learning-camunda/</link>
       <pubDate>Sat, 12 Jan 2019 11:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/learning-camunda/</guid>
+      <guid>https://devsetgo.com/projects/learning-camunda/</guid>
       <description>Camunda-BPM-Learning Project to store what I learn about Camunda and use for future base projects. Camunda BPM Documents (https://docs.camunda.org) - currently built on v7.9
 ChangeLog
 Find all Camunda related posts.
@@ -63,20 +63,20 @@ Things in the example [0.1.4.5] - 2019-12-11 Added  Added Spring Actuator Enable
     
     <item>
       <title>Flask Sufee Admin</title>
-      <link>https://example.com/projects/flask-sufee-admin/</link>
+      <link>https://devsetgo.com/projects/flask-sufee-admin/</link>
       <pubDate>Wed, 26 Dec 2018 17:57:50 -0500</pubDate>
       
-      <guid>https://example.com/projects/flask-sufee-admin/</guid>
+      <guid>https://devsetgo.com/projects/flask-sufee-admin/</guid>
       <description>Sufee HTML5 Admin Dashboard Template (for Flask!) Sufee is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://colorlib.com/polygon/sufee/index.html
  project forked to setup to use in a Flask project.  Demo Site: Here TOC  Built With Changelog Authors License  Built With  Flask Sass Bootstrap Chart.</description>
     </item>
     
     <item>
       <title>Pynote</title>
-      <link>https://example.com/projects/pynote/</link>
+      <link>https://devsetgo.com/projects/pynote/</link>
       <pubDate>Wed, 26 Dec 2018 17:57:50 -0500</pubDate>
       
-      <guid>https://example.com/projects/pynote/</guid>
+      <guid>https://devsetgo.com/projects/pynote/</guid>
       <description>Journal, Idea Tracker and Other things. This application is based and built off Flask-AppBuilder by dpgaspar
 Running demo hosted at pynote.devsetgo.com
  username Admin password $Password  Run the application from OS Prerequisits * Python (3.5) * virtualenv
