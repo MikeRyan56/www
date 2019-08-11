@@ -3,246 +3,202 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/posts/2019-4-22-spring-cloud-config/</loc>
+    <loc>https://example.com/projects/starlette-srtdash/</loc>
+    <lastmod>2019-08-10T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/</loc>
     <lastmod>2019-04-22T12:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/2019-4-20-python-fastapi/</loc>
+    <loc>https://example.com/tags/python/</loc>
+    <lastmod>2019-04-22T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2019-04-22T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/2019-4-22-spring-cloud-config/</loc>
+    <lastmod>2019-04-22T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/flask/</loc>
+    <lastmod>2019-04-22T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/spring-cloud-config/</loc>
+    <lastmod>2019-04-22T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/spring-framework/</loc>
+    <lastmod>2019-04-22T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/twelve-factor/</loc>
+    <lastmod>2019-04-22T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/asyncio/</loc>
     <lastmod>2019-04-20T12:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/projects/test-api/</loc>
+    <loc>https://example.com/tags/fastapi/</loc>
     <lastmod>2019-04-20T12:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/2019-2-2-python-async/</loc>
+    <loc>https://example.com/posts/2019-4-20-python-fastapi/</loc>
+    <lastmod>2019-04-20T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/starlette/</loc>
+    <lastmod>2019-04-20T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/projects/test-api/</loc>
+    <lastmod>2019-04-20T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/2019-2-2-python-async/</loc>
     <lastmod>2019-02-02T18:26:39-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/projects/cookiecutter-flask-sbadmin/</loc>
+    <loc>https://example.com/tags/async/</loc>
+    <lastmod>2019-02-02T18:26:39-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/example/</loc>
+    <lastmod>2019-02-02T18:26:39-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/rest/</loc>
+    <lastmod>2019-02-02T18:26:39-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/projects/cookiecutter-flask-sbadmin/</loc>
     <lastmod>2019-01-21T00:00:00-00:01</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/projects/learning-camunda/</loc>
+    <loc>https://example.com/projects/learning-camunda/</loc>
     <lastmod>2019-01-12T11:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/posts/2019-1-1-cookiecutter-flask-sbadmin/</loc>
+    <loc>https://example.com/posts/2019-1-1-cookiecutter-flask-sbadmin/</loc>
     <lastmod>2019-01-01T21:54:49-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/posts/2018-12-26-current-work/</loc>
+    <loc>https://example.com/tags/cookiecutter/</loc>
+    <lastmod>2019-01-01T21:54:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/javascript/</loc>
+    <lastmod>2019-01-01T21:54:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/bpmn/</loc>
     <lastmod>2018-12-26T23:16:49-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/posts/2018-12-26-and-we-are-back/</loc>
+    <loc>https://example.com/tags/camunda/</loc>
+    <lastmod>2018-12-26T23:16:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/2018-12-26-current-work/</loc>
+    <lastmod>2018-12-26T23:16:49-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/go/</loc>
+    <lastmod>2018-12-26T23:16:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/java/</loc>
+    <lastmod>2018-12-26T23:16:49-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/posts/2018-12-26-and-we-are-back/</loc>
     <lastmod>2018-12-26T22:39:11-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://example.com/tags/random/</loc>
+    <lastmod>2018-12-26T22:39:11-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
     <lastmod>2018-12-26T17:57:50-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/projects/flask-sufee-admin/</loc>
+    <loc>https://example.com/projects/flask-sufee-admin/</loc>
     <lastmod>2018-12-26T17:57:50-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/projects/</loc>
+    <loc>https://example.com/projects/</loc>
     <lastmod>2018-12-26T17:57:50-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/projects/pynote/</loc>
+    <loc>https://example.com/projects/pynote/</loc>
     <lastmod>2018-12-26T17:57:50-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://example.com/about/</loc>
     <lastmod>2018-12-26T17:05:37-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>/tags/async/</loc>
-    <lastmod>2019-02-02T18:26:39-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/asyncio/</loc>
-    <lastmod>2019-04-20T12:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/bpmn/</loc>
-    <lastmod>2018-12-26T23:16:49-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/camunda/</loc>
-    <lastmod>2018-12-26T23:16:49-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/cookiecutter/</loc>
-    <lastmod>2019-01-01T21:54:49-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/example/</loc>
-    <lastmod>2019-02-02T18:26:39-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/fastapi/</loc>
-    <lastmod>2019-04-20T12:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/flask/</loc>
-    <lastmod>2019-04-22T12:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/go/</loc>
-    <lastmod>2018-12-26T23:16:49-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/java/</loc>
-    <lastmod>2018-12-26T23:16:49-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/javascript/</loc>
-    <lastmod>2019-01-01T21:54:49-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/posts/</loc>
-    <lastmod>2019-04-22T12:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/python/</loc>
-    <lastmod>2019-04-22T12:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/random/</loc>
-    <lastmod>2018-12-26T22:39:11-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/rest/</loc>
-    <lastmod>2019-02-02T18:26:39-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/spring-cloud-config/</loc>
-    <lastmod>2019-04-22T12:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/spring-framework/</loc>
-    <lastmod>2019-04-22T12:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/starlette/</loc>
-    <lastmod>2019-04-20T12:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2019-02-02T18:26:39-05:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/twelve-factor/</loc>
-    <lastmod>2019-04-22T12:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://example.com/categories/</loc>
     <priority>0</priority>
   </url>
   

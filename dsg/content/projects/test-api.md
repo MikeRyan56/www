@@ -9,7 +9,7 @@ featured_image: "../images/fastapi.png"
 {{< figure src="/images/fastapi.png" width="600" alt="FastAPI" >}}
 # Test API
 
-This project is to server as an experiment to learn [FastApi](https://fastapi.tiangolo.com/) and server as a useful API to serve psuedo data when needed in other projects.
+This project is to serve as an experiment to learn [FastApi](https://fastapi.tiangolo.com/) and serve as a useful API to serve psuedo data when needed in other projects.
 
 Currently running at [Test-API.DevSetGo.com](https://test-api.devsetgo.com)
 - [OpenAPI](https://swagger.io/docs/specification/about/)/Swagger UI @ [Test-API.DevSetGo.com/docs](https://test-api.devsetgo.com/docs)

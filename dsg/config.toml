@@ -1,69 +1,53 @@
-baseURL = "/"
-languageCode = "en-us"
-title = "DevSetGo.com"
+baseurl = "https://example.com/"
+languageCode = "en_US"
+title = "DevSetGo"
+
 theme = "hugo-tikva"
-staticDir = ["static"]
-# category = ["python","javascript","development","other"]
-# tags = ["java","python","javascript","business","life","random"]
 
-# theme = "gohugo-theme-ananke"
-# themesDir = "../.."
+# Language setting of the site, for language configuration see
+#  https://gohugo.io/content-management/multilingual/
+# There are only a few strings which need to be translated, feel free to add more
+# languages.
+DefaultContentLanguage = "en" # current values: "en" or "de"
 
-MetaDataFormat = "yaml"
-DefaultContentLanguage = "en"
-SectionPagesMenu = "main"
-Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
-googleAnalytics = "UA-8678821-5"
-enableRobotsTXT = true
+# To enable a demo of pagination, this value is set to 2 instead of the default. See https://gohugo.io/getting-started/configuration/
+# for all site variables. The paginate default is 10
+paginate = 2
 
-[sitemap]
-  changefreq = "monthly"
-  priority = 0.5
-  filename = "sitemap.xml"
+# Google Analytics setting, see Hugo internal templates
+#googleAnalytics = "UA-123-45"
 
+
+# For all color settings, please use the format "#rrggbb". 
+
+# Generic parameters
 [params]
-  # body_classes = "avenir bg-near-white"
-  # favicon = ""
-  # description = "My spot on the internet... Code and stuff"
-  # facebook = ""
-  # twitter = "https://twitter.com/stuxstu"
-  # instagram = ""
-  # youtube = ""
-  # github = "https://github.com/devsetgo"
-  # gitlab = ""
-  # linkedin = ""
-  # # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  # background_color_class = "bg-blue"
-  # featured_image = "/images/Kilkee1.jpg"
-  # bgimg = "/images/Kilkee1.jpg"
-  # recent_posts_number = 2
-  
-  #API key is restricted to my domain only
-  googleMapsAPIKey = "AIzaSyCFqIVd4buhBFKFilrHkBqfnDARvmv7jAI"
-  appendSiteTitle = true # Append site title to title tag on every page. Default false
-  favicon = 'favicon.ico' # Add favicon, default empty
-  subtitle = ""
+    appendSiteTitle = true # Append site title to title tag on every page. Default false
+    #favicon = 'img/favicon.ico' # Add favicon, default empty
+    subtitle = ""
 
-  dateFormat = "2006.01.02" # Format dates with Go's time formatting
-  showDate = true # true|false: Show date on summaries. This is a global setting. If the date should be shown, you have to add a "date" parameter to the content files, otherwise the default value will be used, which is something you don't want.
-  showNumberOfWords = true # true|false: Show number of word on article header of single content page
-  hideMeta = false # Hide meta information on single pages
+    dateFormat = "2006.01.02" # Format dates with Go's time formatting
+    showDate = true # true|false: Show date on summaries. This is a global setting. If the date should be shown, you have to add a "date" parameter to the content files, otherwise the default value will be used, which is something you don't want.
+    showNumberOfWords = true # true|false: Show number of word on article header of single content page
+    hideMeta = false # Hide meta information on single pages
 
 
 # Navigation bar settings
 
 [params.navbar]
-  style = "header" # Navigation bar style, values "fixed-top" or "header", default is fixed-top   
-  colorScheme = "navbar-dark" # navbar-light, navbar-dark
-  bgScheme = "bg-primary" # see Bootstrap docs, bg.* utilities https://getbootstrap.com/docs/4.1/utilities/colors/
+    style = "header" # Navigation bar style, values "fixed-top" or "header", default is fixed-top 
     
-  backgroundColor = ''  # custom background color parameters, e.g. #e3f2fd !important, If color is set, it will be used for background. Set empty for above selection.
+    colorScheme = "navbar-dark" # navbar-light, navbar-dark
     
-  adjustHeader = 20 # Adjust header by adding a distance between navigation and content. Some of the styles need more space, so you can use this option to adjust. Use an integer value of pixels.
+    bgScheme = "bg-primary" # see Bootstrap docs, bg.* utilities https://getbootstrap.com/docs/4.1/utilities/colors/
     
-  textAlignment = '' # don't set or leave empty for default (left), or justify-content-end, justify-content-center
+    backgroundColor = ''  # custom background color parameters, e.g. #e3f2fd !important, If color is set, it will be used for background. Set empty for above selection.
+    
+    adjustHeader = 20 # Adjust header by adding a distance between navigation and content. Some of the styles need more space, so you can use this option to adjust. Use an integer value of pixels.
+    
+    textAlignment = '' # don't set or leave empty for default (left), or justify-content-end, justify-content-center
 
-  #brandImage = 'img/rg_mod_20.png' # The "brand image" will be set in "fixed-top" style as icon beside the site title. 
+    #brandImage = 'img/rg_mod_20.png' # The "brand image" will be set in "fixed-top" style as icon beside the site title. 
 
 
 # Meta header parameter settings
@@ -81,7 +65,7 @@ enableRobotsTXT = true
 # Theme configuration
 
 [params.theme]
-    # hoff cosmo
+
     bootstrapTheme = 'hoff' # Use empty value for default Bootstrap color scheme or one of the following values:
     # bolt, bstrap, btcn, calabaza, cerulean, cosmo, cyborg, darkly, flatly, hoff, journal,
     # kdo_flatly, kdo2, kunsch, lumen, lux, malibu, materia, minim, minty, pulse, sandstone, 
@@ -104,7 +88,7 @@ enableRobotsTXT = true
     
     width = 2512 # Width of header image. Please set this value to the correct size, because it will be used for size calculation.
     height = 673 # Height of header image. Please set this value to the correct size, because it will be used for size calculation.
-    altText = '' # Set alt text for header image, default empty
+    altText = 'alt text for header image' # Set alt text for header image, default empty
     displayHeaderText = true # display the title and subtitle - yes or no?
     titleOnImage = true # true|false, default false. Display title and subtitle as overlay in the foreground of the image. It is only possible to set the title as image overlay if an image is available. If no image is configured, the theme will do a fallback to non-overlay, i.e. title and subtitle will be displayed above the main navigation. 
     fontColorTitle = '#073642' # For all colors, please use #rrggbb format with # and 6 characters
@@ -229,11 +213,6 @@ enableRobotsTXT = true
     url = "/posts/"
     weight = 20
 
-  [[menu.main]]
-    identifier = "projects"
-    name = "Projects"
-    url = "/projects/"
-    weight = 25
 
   [[menu.main]]
     identifier = "about"
@@ -241,9 +220,10 @@ enableRobotsTXT = true
     url = "/about/"
     weight = 30
 
+    
   
-  # [[menu.main]]
-  #   name = "Feedback"
-  #   url = "/feedback/"
-  #   weight = 40
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 40
 

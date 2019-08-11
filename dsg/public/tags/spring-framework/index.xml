@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Spring Framework on DevSetGo.com</title>
-    <link>/tags/spring-framework/</link>
-    <description>Recent content in Spring Framework on DevSetGo.com</description>
+    <title>spring framework on DevSetGo</title>
+    <link>https://example.com/tags/spring-framework/</link>
+    <description>Recent content in spring framework on DevSetGo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en_US</language>
     <lastBuildDate>Mon, 22 Apr 2019 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/spring-framework/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/tags/spring-framework/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Using Spring Cloud Config with Python Requests</title>
-      <link>/posts/2019-4-22-spring-cloud-config/</link>
+      <link>https://example.com/posts/2019-4-22-spring-cloud-config/</link>
       <pubDate>Mon, 22 Apr 2019 12:00:00 +0000</pubDate>
       
-      <guid>/posts/2019-4-22-spring-cloud-config/</guid>
+      <guid>https://example.com/posts/2019-4-22-spring-cloud-config/</guid>
       <description>At work we use Spring Cloud Config as part of are management of external dependencies for JAVA APIs. So I thought this would be useful to manage dependencies for Python applications also and an effective way of dealing with external environment variables when deploying a docker image as part of a Twelve Factor App.
 Why is this important?
  You don&amp;rsquo;t want to hardcode your configuration (keys, IP address, userid, passwords) Deploying .</description>

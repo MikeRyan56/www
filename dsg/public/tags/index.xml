@@ -1,175 +1,175 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on DevSetGo.com</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on DevSetGo.com</description>
+    <title>Tags on DevSetGo</title>
+    <link>https://example.com/tags/</link>
+    <description>Recent content in Tags on DevSetGo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 02 Feb 2019 18:26:39 -0500</lastBuildDate>
+    <language>en_US</language>
+    <lastBuildDate>Mon, 22 Apr 2019 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Async</title>
-      <link>/tags/async/</link>
-      <pubDate>Sat, 02 Feb 2019 18:26:39 -0500</pubDate>
+      <title>Python</title>
+      <link>https://example.com/tags/python/</link>
+      <pubDate>Mon, 22 Apr 2019 12:00:00 +0000</pubDate>
       
-      <guid>/tags/async/</guid>
+      <guid>https://example.com/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flask</title>
+      <link>https://example.com/tags/flask/</link>
+      <pubDate>Mon, 22 Apr 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/flask/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spring cloud config</title>
+      <link>https://example.com/tags/spring-cloud-config/</link>
+      <pubDate>Mon, 22 Apr 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/spring-cloud-config/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spring framework</title>
+      <link>https://example.com/tags/spring-framework/</link>
+      <pubDate>Mon, 22 Apr 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/spring-framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>twelve factor</title>
+      <link>https://example.com/tags/twelve-factor/</link>
+      <pubDate>Mon, 22 Apr 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/tags/twelve-factor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Asyncio</title>
-      <link>/tags/asyncio/</link>
+      <link>https://example.com/tags/asyncio/</link>
       <pubDate>Sat, 20 Apr 2019 12:00:00 +0000</pubDate>
       
-      <guid>/tags/asyncio/</guid>
+      <guid>https://example.com/tags/asyncio/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Bpmn</title>
-      <link>/tags/bpmn/</link>
-      <pubDate>Wed, 26 Dec 2018 23:16:49 -0500</pubDate>
-      
-      <guid>/tags/bpmn/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Camunda</title>
-      <link>/tags/camunda/</link>
-      <pubDate>Wed, 26 Dec 2018 23:16:49 -0500</pubDate>
-      
-      <guid>/tags/camunda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cookiecutter</title>
-      <link>/tags/cookiecutter/</link>
-      <pubDate>Tue, 01 Jan 2019 21:54:49 -0500</pubDate>
-      
-      <guid>/tags/cookiecutter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Example</title>
-      <link>/tags/example/</link>
-      <pubDate>Sat, 02 Feb 2019 18:26:39 -0500</pubDate>
-      
-      <guid>/tags/example/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fastapi</title>
-      <link>/tags/fastapi/</link>
+      <title>FastAPI</title>
+      <link>https://example.com/tags/fastapi/</link>
       <pubDate>Sat, 20 Apr 2019 12:00:00 +0000</pubDate>
       
-      <guid>/tags/fastapi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Flask</title>
-      <link>/tags/flask/</link>
-      <pubDate>Mon, 22 Apr 2019 12:00:00 +0000</pubDate>
-      
-      <guid>/tags/flask/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Go</title>
-      <link>/tags/go/</link>
-      <pubDate>Wed, 26 Dec 2018 23:16:49 -0500</pubDate>
-      
-      <guid>/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Java</title>
-      <link>/tags/java/</link>
-      <pubDate>Wed, 26 Dec 2018 23:16:49 -0500</pubDate>
-      
-      <guid>/tags/java/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Javascript</title>
-      <link>/tags/javascript/</link>
-      <pubDate>Tue, 01 Jan 2019 21:54:49 -0500</pubDate>
-      
-      <guid>/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>/tags/python/</link>
-      <pubDate>Mon, 22 Apr 2019 12:00:00 +0000</pubDate>
-      
-      <guid>/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Random</title>
-      <link>/tags/random/</link>
-      <pubDate>Wed, 26 Dec 2018 22:39:11 -0500</pubDate>
-      
-      <guid>/tags/random/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Rest</title>
-      <link>/tags/rest/</link>
-      <pubDate>Sat, 02 Feb 2019 18:26:39 -0500</pubDate>
-      
-      <guid>/tags/rest/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spring Cloud Config</title>
-      <link>/tags/spring-cloud-config/</link>
-      <pubDate>Mon, 22 Apr 2019 12:00:00 +0000</pubDate>
-      
-      <guid>/tags/spring-cloud-config/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spring Framework</title>
-      <link>/tags/spring-framework/</link>
-      <pubDate>Mon, 22 Apr 2019 12:00:00 +0000</pubDate>
-      
-      <guid>/tags/spring-framework/</guid>
+      <guid>https://example.com/tags/fastapi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Starlette</title>
-      <link>/tags/starlette/</link>
+      <link>https://example.com/tags/starlette/</link>
       <pubDate>Sat, 20 Apr 2019 12:00:00 +0000</pubDate>
       
-      <guid>/tags/starlette/</guid>
+      <guid>https://example.com/tags/starlette/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Twelve Factor</title>
-      <link>/tags/twelve-factor/</link>
-      <pubDate>Mon, 22 Apr 2019 12:00:00 +0000</pubDate>
+      <title>async</title>
+      <link>https://example.com/tags/async/</link>
+      <pubDate>Sat, 02 Feb 2019 18:26:39 -0500</pubDate>
       
-      <guid>/tags/twelve-factor/</guid>
+      <guid>https://example.com/tags/async/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>example</title>
+      <link>https://example.com/tags/example/</link>
+      <pubDate>Sat, 02 Feb 2019 18:26:39 -0500</pubDate>
+      
+      <guid>https://example.com/tags/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rest</title>
+      <link>https://example.com/tags/rest/</link>
+      <pubDate>Sat, 02 Feb 2019 18:26:39 -0500</pubDate>
+      
+      <guid>https://example.com/tags/rest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cookiecutter</title>
+      <link>https://example.com/tags/cookiecutter/</link>
+      <pubDate>Tue, 01 Jan 2019 21:54:49 -0500</pubDate>
+      
+      <guid>https://example.com/tags/cookiecutter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>javascript</title>
+      <link>https://example.com/tags/javascript/</link>
+      <pubDate>Tue, 01 Jan 2019 21:54:49 -0500</pubDate>
+      
+      <guid>https://example.com/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BPMN</title>
+      <link>https://example.com/tags/bpmn/</link>
+      <pubDate>Wed, 26 Dec 2018 23:16:49 -0500</pubDate>
+      
+      <guid>https://example.com/tags/bpmn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camunda</title>
+      <link>https://example.com/tags/camunda/</link>
+      <pubDate>Wed, 26 Dec 2018 23:16:49 -0500</pubDate>
+      
+      <guid>https://example.com/tags/camunda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GO</title>
+      <link>https://example.com/tags/go/</link>
+      <pubDate>Wed, 26 Dec 2018 23:16:49 -0500</pubDate>
+      
+      <guid>https://example.com/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JAVA</title>
+      <link>https://example.com/tags/java/</link>
+      <pubDate>Wed, 26 Dec 2018 23:16:49 -0500</pubDate>
+      
+      <guid>https://example.com/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Random</title>
+      <link>https://example.com/tags/random/</link>
+      <pubDate>Wed, 26 Dec 2018 22:39:11 -0500</pubDate>
+      
+      <guid>https://example.com/tags/random/</guid>
       <description></description>
     </item>
     

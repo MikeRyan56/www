@@ -2,9 +2,9 @@ version: '2'
 services:
   web:
     build: ./
-    image: nginx:stable-alpine
-    # image: mikeryan56/dsg:19.4.22
-    image: mikeryan56/dsg:latest
+    # image: nginx:stable-alpine
+    image: mikeryan56/dsg:19.7.13
+    # image: mikeryan56/dsg:latest
     container_name: "devsetgo"
     # environment:
       # - VIRTUAL_HOST=devsetgo.com
