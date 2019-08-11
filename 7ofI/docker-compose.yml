@@ -1,15 +1,38 @@
 version: '2'
-services:
+networks:
   web:
-    image: nginx:stable-alpine
+    external: true
+services:
+  devsetgo:
+    build: ./
+    # image: nginx:stable-alpine
+    image: mikeryan56/7oi:19.8.10
+    # image: mikeryan56/dsg:latest
     container_name: "sevenofi"
     # environment:
-      # - VIRTUAL_HOST=devsetgo.com
-      # - LETSENCRYPT_HOST=devsetgo.com
+      # - VIRTUAL_HOST=sevenofi.com
+      # - LETSENCRYPT_HOST=sevenofi.com
       # - LETSENCRYPT_EMAIL=mikeryan56@gmail.com
-    expose:
-      - "80"
-    volumes:
-      - "./public:/usr/share/nginx/html"
-    network_mode: bridge
+    ports:
+    - "49999:80"
+    # volumes:
+    #   - "./public:/usr/share/nginx/html"
     restart: always
+    ports:
+    - "80"
+    volumes:
+    - .:/code
+
+    # if using jwilder/nginx-proxy
+    # environment:
+    # - VIRTUAL_HOST=sevenofi.com
+    # - LETSENCRYPT_HOST=sevenofi.com
+    
+    #if using traefik
+    labels:
+    - traefik.backend=7oi
+    - traefik.frontend.rule=Host:sevenofi.com
+    - traefik.docker.network=web
+    - traefik.port=80
+    networks:
+      - web
