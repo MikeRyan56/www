@@ -1,9 +1,12 @@
 version: '2'
-services:
+networks:
   web:
+    external: true
+services:
+  devsetgo:
     build: ./
     # image: nginx:stable-alpine
-    image: mikeryan56/dsg:19.7.13
+    image: mikeryan56/dsg:19.8.10
     # image: mikeryan56/dsg:latest
     container_name: "devsetgo"
     # environment:
@@ -12,8 +15,8 @@ services:
       # - LETSENCRYPT_EMAIL=mikeryan56@gmail.com
     ports:
     - "49999:80"
-    volumes:
-      - "./public:/usr/share/nginx/html"
+    # volumes:
+    #   - "./public:/usr/share/nginx/html"
     restart: always
     ports:
     - "80"
