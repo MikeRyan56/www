@@ -1,7 +1,7 @@
 ---
 title: "Flask Sufee Admin"
 description: "A template for Flask using Sufee Admin Bootstrap template."
-date: 2018-12-26T17:57:50-05:00
+date:  2019-08-16T00:00:00-02:00
 draft: false
 featured_image: "../images/sufee-admin.png"
 
@@ -12,8 +12,6 @@ featured_image: "../images/sufee-admin.png"
 **Sufee** is a responsive Bootstrap 4 Admin Template. It provides you with a collection of ready to use code snippets and utilities, custom pages, a collection of applications and some useful widgets. Preview of this awesome admin template available here: https://colorlib.com/polygon/sufee/index.html
 
 - project forked to setup to use in a Flask project.
-
-### Demo Site: [Here](https://sufee-admin.devsetgo.com/)
 
 ### TOC
 - [Built With](#built-with)

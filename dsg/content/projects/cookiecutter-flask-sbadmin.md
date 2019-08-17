@@ -1,6 +1,6 @@
 ---
 title: "Cookiecutter-Flask-SBAdmin"
-date: 2019-01-21T00:00:00-00:01
+date:  2019-08-16T00:00:00-04:00
 draft: false
 ---
 
@@ -22,7 +22,7 @@ Built with [cookiecutter](https://github.com/audreyr/cookiecutter)
 <blockquote>
     <ul>
         <li>$ docker pull <a href="https://cloud.docker.com/u/mikeryan56/repository/docker/mikeryan56/flask-sbadmin" target="_blank">MikeRyan56/flask-sbadmin:latest</a></li>
-        <li>Running Demo - <a href="https://sbadmin.devsetgo.com" target="_blank">sbadmin.devsetgo.com</a></li>
+        <!-- <li>Running Demo - <a href="https://sbadmin.devsetgo.com" target="_blank">sbadmin.devsetgo.com</a></li> -->
     <ul>
 </blockquote>
 
@@ -89,3 +89,4 @@ Inspiration
 - [flask-bones](https://github.com/cburmeister/flask-bones) by [@cburmeister](https://github.com/cburmeister)
 - [flask-basic-registration](https://github.com/mjhea0/flask-basic-registration) by [@mjhea0](https://github.com/mjhea)
 - [Flask Official Documentation](http://flask.pocoo.org/docs/)
+

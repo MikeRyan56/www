@@ -12,7 +12,7 @@ DefaultContentLanguage = "en" # current values: "en" or "de"
 
 # To enable a demo of pagination, this value is set to 2 instead of the default. See https://gohugo.io/getting-started/configuration/
 # for all site variables. The paginate default is 10
-paginate = 2
+paginate = 10
 
 # Google Analytics setting, see Hugo internal templates
 #googleAnalytics = "UA-123-45"
@@ -57,7 +57,7 @@ paginate = 2
 
 [params.meta]
     description = "Just my site..."
-    keywords = "Python, Code, Development, JavaScript, BPMN, Workflow, Camunda"
+    keywords = "Python, Code, Development, JavaScript, BPMN, Workflow, Camunda, Go"
     author = "Mike Ryan"
     "DC.Copyright" = "Mike Ryan"
     
@@ -223,6 +223,7 @@ paginate = 2
     
   
   [[menu.main]]
+    identifier = "projects"
     name = "Projects"
     url = "/projects/"
     weight = 40

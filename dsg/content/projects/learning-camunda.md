@@ -1,6 +1,6 @@
 ---
 title: "Learning Camunda"
-date: 2019-01-12T11:00:00-00:00
+date:  2019-08-16T00:00:00-03:00
 description: "Exploring Camunda workflow engine."
 draft: false
 featured_image: "../images/camunda-icon.svg"
