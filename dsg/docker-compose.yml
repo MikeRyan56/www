@@ -13,15 +13,15 @@ services:
       # - VIRTUAL_HOST=devsetgo.com
       # - LETSENCRYPT_HOST=devsetgo.com
       # - LETSENCRYPT_EMAIL=mikeryan56@gmail.com
-    ports:
-    - "49999:80"
+    # ports:
+    # - "49999:80"
     # volumes:
     #   - "./public:/usr/share/nginx/html"
     restart: always
     ports:
     - "80"
-    volumes:
-    - .:/code
+    # volumes:
+    # - .:/code
 
     # if using jwilder/nginx-proxy
     # environment:
