@@ -23,11 +23,12 @@ Just a guy coding... most likely poorly.
 
 * [Python](https://python.org) - I think this is a beautiful language. Simply just ["import this"](https://www.python.org/dev/peps/pep-0020/#id3) to understand why
 * [JavaScript](https://javascript.org) - because you are pretty much required to know it anymore! I am trying to decide if I should learn [REACT](https://reactjs.org/) or [Angular](https://angular.io/).
-* BPMN Tools like [Camunda](https://camunda.com) because I can build as fast as I think, then adapt quickly.
-* [MongoDB](https://www.mongodb.com) - document databases are very cool.
-* [MariaDB](https://mariadb.org/) and [PostgreSQL](https://www.postgresql.org/) are two of my favorite opensource databases, I also really like [MSSQL](https://www.microsoft.com/en-us/sql-server/) also
+* BPMN Tools like [Camunda](https://camunda.com) because I can build as fast as I think, then adapt quickly. [Zeebe by Camunda](https://zeebe.io/) is also very interesting.
+* [MongoDB](https://www.mongodb.com) - document databases are very cool. Need to learn more about [Cassandra](http://cassandra.apache.org/).
+* [MariaDB](https://mariadb.org/) and [PostgreSQL](https://www.postgresql.org/) are two of my favorite opensource databases, I also really like [MSSQL](https://www.microsoft.com/en-us/sql-server/)
 * [Docker](https://docker.com) and I need to learn [Kubernettes](https://kubernetes.io/docs/tutorials/kubernetes-basics/)...
 * [GO](https://golang.org/) - starting to get an interest in it....
+
 
 and when I am required...
 
